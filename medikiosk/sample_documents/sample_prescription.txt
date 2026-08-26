@@ -1,0 +1,15 @@
+PREVIOUS HOSPITAL PRESCRIPTION
+Date: 12 Aug 2026
+
+Diagnoses:
+- Hypertension
+- Type 2 diabetes
+
+Medications:
+- Metformin | 500 mg | twice daily
+- Amlodipine | 5 mg | once daily
+
+Investigation:
+- HbA1c: 8.2%
+
+Source: Previous hospital prescription
